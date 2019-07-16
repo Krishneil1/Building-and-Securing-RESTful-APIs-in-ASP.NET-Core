@@ -1,0 +1,14 @@
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.deps.json
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.runtimeconfig.json
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.runtimeconfig.dev.json
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.dll
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\bin\Debug\netcoreapp2.1\LandonApi.pdb
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.csprojAssemblyReference.cache
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.csproj.CoreCompileInputs.cache
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.RazorAssemblyInfo.cache
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.RazorAssemblyInfo.cs
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.AssemblyInfoInputs.cache
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.AssemblyInfo.cs
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.RazorTargetAssemblyInfo.cache
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.dll
+C:\Dev\Building-and-Securing-RESTful-APIs-in-ASP.NET-Core\LandonApi\LandonApi\obj\Debug\netcoreapp2.1\LandonApi.pdb
