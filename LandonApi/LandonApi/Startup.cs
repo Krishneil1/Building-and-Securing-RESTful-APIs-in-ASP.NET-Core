@@ -31,6 +31,13 @@ namespace LandonApi
                 .AddMvc(options =>
                 {
                     options.Filters.Add<JsonExceptionFilter>();
+
+                    /*
+                     * The following code is never going to be used in prod and used as an example if using this you
+                     * will have to comment out app.UseHttpsRedirection();
+                     */
+                    options.Filters
+                        .Add<RequireHttpsOrCloseAttribute>();
                 });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
